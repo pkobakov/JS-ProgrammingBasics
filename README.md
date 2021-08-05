@@ -1,7 +1,6 @@
 # JS Programming basics:
-First steps in coding.
+Basic calculations.
 Conditionals.
 Conditionals Advanced.
 For Loop.
 While loop.
-Exam preparation.
